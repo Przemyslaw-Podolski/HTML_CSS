@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(192, 219, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 40px;
+}
+
+.title-main {
+    color:rgb(0, 58, 97);
+    background-color: rgb(150, 195, 223);
+    padding: 5px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+.image-main {
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    /*padding-left: 100px;*/
+}
+
+.text-normal {
+    padding: 20px;
+    padding-top: 1px;
+}
+
+.search-input {
+    display: inline-block;
+    background-color: rgb(150, 195, 223);
+    border: 3px solid rgb(181, 211, 230);
+    width: 220px;
+    height: 130px;
+    padding: 10px;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+
+button, input {
+    padding-right: 8px;
+    font-size: 12px;
+}
+
+.search-input h3 {
+    color:rgb(71, 82, 153)
+}
+
